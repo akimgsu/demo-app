@@ -8,5 +8,5 @@ pm install react-router-dom
 ## Extends
 
 npm install -g json-server
-json-server --watch ./db/data.json -p 3001
+json-server --watch ./src/db/data.json -p 3001
 
