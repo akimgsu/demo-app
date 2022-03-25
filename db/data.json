@@ -1,0 +1,42 @@
+{
+    "categories": [
+    {
+        "id": 1,
+        "category": "Garden"
+    },
+    {
+        "id": 2,
+        "category": "Tool"
+    }
+    ],
+    "items": [
+    {
+        "id": 1,
+        "category": 1,
+        "title": "Rose",
+        "price": "10",
+        "isStock": false
+    },
+    {
+        "id": 2,
+        "category": 1,
+        "title": "Jar",
+        "price": "20",
+        "isStock": false
+    },  
+    {
+        "id": 3,
+        "category": 1,
+        "title": "drill",
+        "price": "100",
+        "isStock": false
+    },
+    {
+        "id": 4,
+        "category": 1,
+        "title": "Saw",
+        "price": "14",
+        "isStock": false
+    }
+    ]
+}
