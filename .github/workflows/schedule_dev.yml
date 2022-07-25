@@ -22,9 +22,6 @@ jobs:
       - name: Install Globally
         run: npm i -g npm-check-updates
 
-      - name: Run ncu
-        run: ncu -u
-
       - name: Install
         run: npm i
         
